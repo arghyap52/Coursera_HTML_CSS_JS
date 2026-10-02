@@ -1,0 +1,18 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+}
+
+h1 {
+    text-align: center;
+}
+
+section {
+    background-color: #999;
+    padding: 20px;
+    margin: 20px;
+}
+
+h2 {
+    text-align: center;
+}
